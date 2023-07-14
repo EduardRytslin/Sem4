@@ -1,0 +1,15 @@
+C:\Users\Miha\Desktop\C#\Семинар 5\Task31\bin\Debug\net6.0\Task31.exe
+C:\Users\Miha\Desktop\C#\Семинар 5\Task31\bin\Debug\net6.0\Task31.deps.json
+C:\Users\Miha\Desktop\C#\Семинар 5\Task31\bin\Debug\net6.0\Task31.runtimeconfig.json
+C:\Users\Miha\Desktop\C#\Семинар 5\Task31\bin\Debug\net6.0\Task31.dll
+C:\Users\Miha\Desktop\C#\Семинар 5\Task31\bin\Debug\net6.0\Task31.pdb
+C:\Users\Miha\Desktop\C#\Семинар 5\Task31\obj\Debug\net6.0\Task31.csproj.AssemblyReference.cache
+C:\Users\Miha\Desktop\C#\Семинар 5\Task31\obj\Debug\net6.0\Task31.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miha\Desktop\C#\Семинар 5\Task31\obj\Debug\net6.0\Task31.AssemblyInfoInputs.cache
+C:\Users\Miha\Desktop\C#\Семинар 5\Task31\obj\Debug\net6.0\Task31.AssemblyInfo.cs
+C:\Users\Miha\Desktop\C#\Семинар 5\Task31\obj\Debug\net6.0\Task31.csproj.CoreCompileInputs.cache
+C:\Users\Miha\Desktop\C#\Семинар 5\Task31\obj\Debug\net6.0\Task31.dll
+C:\Users\Miha\Desktop\C#\Семинар 5\Task31\obj\Debug\net6.0\refint\Task31.dll
+C:\Users\Miha\Desktop\C#\Семинар 5\Task31\obj\Debug\net6.0\Task31.pdb
+C:\Users\Miha\Desktop\C#\Семинар 5\Task31\obj\Debug\net6.0\Task31.genruntimeconfig.cache
+C:\Users\Miha\Desktop\C#\Семинар 5\Task31\obj\Debug\net6.0\ref\Task31.dll

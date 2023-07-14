@@ -1,0 +1,15 @@
+C:\Users\Максим\Desktop\C#\Семинар 5\Task32\bin\Debug\net6.0\Task32.exe
+C:\Users\Максим\Desktop\C#\Семинар 5\Task32\bin\Debug\net6.0\Task32.deps.json
+C:\Users\Максим\Desktop\C#\Семинар 5\Task32\bin\Debug\net6.0\Task32.runtimeconfig.json
+C:\Users\Максим\Desktop\C#\Семинар 5\Task32\bin\Debug\net6.0\Task32.dll
+C:\Users\Максим\Desktop\C#\Семинар 5\Task32\bin\Debug\net6.0\Task32.pdb
+C:\Users\Максим\Desktop\C#\Семинар 5\Task32\obj\Debug\net6.0\Task32.csproj.AssemblyReference.cache
+C:\Users\Максим\Desktop\C#\Семинар 5\Task32\obj\Debug\net6.0\Task32.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максим\Desktop\C#\Семинар 5\Task32\obj\Debug\net6.0\Task32.AssemblyInfoInputs.cache
+C:\Users\Максим\Desktop\C#\Семинар 5\Task32\obj\Debug\net6.0\Task32.AssemblyInfo.cs
+C:\Users\Максим\Desktop\C#\Семинар 5\Task32\obj\Debug\net6.0\Task32.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\C#\Семинар 5\Task32\obj\Debug\net6.0\Task32.dll
+C:\Users\Максим\Desktop\C#\Семинар 5\Task32\obj\Debug\net6.0\refint\Task32.dll
+C:\Users\Максим\Desktop\C#\Семинар 5\Task32\obj\Debug\net6.0\Task32.pdb
+C:\Users\Максим\Desktop\C#\Семинар 5\Task32\obj\Debug\net6.0\Task32.genruntimeconfig.cache
+C:\Users\Максим\Desktop\C#\Семинар 5\Task32\obj\Debug\net6.0\ref\Task32.dll
